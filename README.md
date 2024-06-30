@@ -68,7 +68,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Tutor Install Aplikasi Web Ini
 
 - Punya Xampp
-- Punya Composer 
 - Punya Node.js
 - Download Folder Aplikasi ini
 - Buka Terminal, Ketikkan Command dibawah ini : 
